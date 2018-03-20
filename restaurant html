@@ -23,7 +23,7 @@
 </head>
 <div class="container">
     <div class="row">
-<div id="nav"><a href="page1.html">Home</a> | <a href="file:///C:/Users/olivi/OneDrive/Documents/GitHub/restaurant-page/restaurant%20menu%20page%20html">Menu</a> | <a href="page2.html">Daily Special</a> | <a href="page2.html">About Us</a> | <a href="page2.html">Location and Hours</a></div>
+<div id="nav"><a href="page1.html">Home</a> | <a href="page2.html">Menu</a> | <a href="page2.html">Daily Special</a> | <a href="page2.html">About Us</a> | <a href="page2.html">Location and Hours</a></div>
 
 
 </>
