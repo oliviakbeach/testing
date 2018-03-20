@@ -1,0 +1,131 @@
+<html>
+<head>
+  <title>
+    Boostrap Demo
+  </title>
+
+  <!-- Get Bootstrap from here: http://getbootstrap.com/getting-started/ -->
+
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+  <link href="https://fonts.googleapis.com/css?family=Amatic+SC|Open+Sans+Condensed:300" rel="stylesheet">
+
+</head>
+<body>
+  <div class="container">
+    <div class="jumbotron text-center">
+      <h1>Restaurant Title</h1>
+    </div>
+  </div>
+
+</body>
+</html>
+
+</head>
+<div class="container">
+    <div class="row">
+<div id="nav"><a href="page1.html">Home</a> | <a href="file:///C:/Users/olivi/OneDrive/Documents/GitHub/restaurant-page/restaurant%20menu%20page%20html">Menu</a> | <a href="page2.html">Daily Special</a> | <a href="page2.html">About Us</a> | <a href="page2.html">Location and Hours</a></div>
+
+
+</>
+</html>
+
+  <div class="container">
+    <div class="row">
+      <div class="col-sm-8">
+        <h1>Menu</h1>
+        <h3>Appetizers</h3>
+
+    <ul>
+      <li>Chips & Queso - $6</li>
+      <li>Mozeralla Sticks - $6</li>
+      <li>Garden Salad - $5</li>
+    </ul>
+
+  </body>
+</html>
+    <h3>Main Course</h3>
+
+    <ul>
+      <li>Veggie Burger - $10</li>
+      <li>Fettuccine Alfredo - $10</li>
+      <li>Macaroni & Cheese - $10</li>
+      <li>Garden Pizza - $10</li>
+    </ul>
+
+  </body>
+</html>
+  <h3>Desert</h3>
+
+    <ul>
+      <li>Ice Cream Sundae - $6</li>
+      <li>Cheesecake - $6</li>
+    </ul>
+
+  </body>
+</html>
+<h3>Drinks</h3>
+
+    <ul>
+      <li>Water</li>
+      <li>Sprite</li>
+      <li>Juice</li>
+      <li>Vodka</li>
+    </ul>
+
+  </body>
+</html>
+      </div>
+      <div class="col-sm-8">
+        <h1>Daily Special</h1>
+        <h3>50% off Vodka 3-4pm Everyday</h3>
+
+  </body>
+</html>
+        Nunc ultrices, sapien non pretium blandit, arcu lacus sollicitudin dolor, eget ullamcorper ligula risus eget enim. Ut rutrum auctor mi a laoreet. Sed at fermentum erat. Vestibulum sit amet fringilla tortor, quis viverra risus. In pulvinar felis eu dui elementum varius. Aliquam accumsan risus quam, a consectetur est porta eget.
+      </div>
+      <div class="col-sm-8">
+        <h1>About Us</h1>
+        Nunc ultrices, sapien non pretium blandit, arcu lacus sollicitudin dolor, eget ullamcorper ligula risus eget enim. Ut rutrum auctor mi a laoreet. Sed at fermentum erat. Vestibulum sit amet fringilla tortor, quis viverra risus. In pulvinar felis eu dui elementum varius. Aliquam accumsan risus quam, a consectetur est porta eget. Pellentesque rutrum neque dolor, ut egestas enim faucibus eu. In hac habitasse platea dictumst. Quisque non ante mollis, aliquet lacus a, elementum tellus. Aenean euismod urna venenatis ultricies ornare. Mauris auctor semper ante, in semper metus eleifend ac.
+      </div>
+      <div class="col-sm-8">
+           <h1>Location and Hours</h1>
+    <!-- Pay attention to how each set of tags is tabbed in.
+    this is good "style" i.e. measure of readability of your code -->
+    <table border="1px">
+      <tr>
+        <td>Location</td>
+        <td>Hours</td>
+      </tr>
+       <tr>
+        <td>1234 Food Way</td>
+        <td><ul>
+      <li>Monday - 9am-10pm </li>
+      <li>Tuesday - 9am-10pm</li>
+      <li>Wednesday - 9am-10pm</li>
+      <li>Thursday - 9am-10pm</li>
+      <li>Friday - 9am-12am</li>
+      <li>Saturday - 9am-12am</li>
+      <li>Sunday - 9am-10pm
+    </ul></td>
+      </tr>
+       <tr>
+        <td>5678 Tasty Drive</td>
+        <td><ul>
+      <li>Monday - 9am-10pm</li>
+      <li>Tuesday - 9am-10pm</li>
+      <li>Wednesday - 9am-10pm</li>
+      <li>Thursday - 9am-10pm</li>
+      <li>Friday - 9am-12am</li>
+      <li>Saturday - 9am-12am</li>
+      <li>Sunday - 9am-10pm</li>
+    </ul></td>
+      </tr>
+
+
+    </table>
+      </div>
+    </div>
+  </div>
+
+</body>
+</html>
